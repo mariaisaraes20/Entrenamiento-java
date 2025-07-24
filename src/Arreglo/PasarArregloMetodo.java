@@ -20,8 +20,8 @@ public class PasarArregloMetodo {
 		PasarArregloMetodo arr = new PasarArregloMetodo();
 		int arregloPrueba[] = { 3, 6, 1, 5, 10, 80 };
 		arr.Encontrar(arregloPrueba);
-		
-		int arreglodos[]= arr.getArreglo();
+
+		int arreglodos[] = arr.getArreglo();
 		System.out.println(arreglodos[2]);
 	}
 
