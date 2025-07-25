@@ -3,9 +3,9 @@ package string;
 public class IntroducciónString {
 
 	public static void main(String[] args) {
-		String nombreUno = "Juan Perez";
-		String nombreDos = "Juan Perez";
-		String nombreTres = "Juanita";
+		String nombreUno = "Juan Perez ";
+		String nombreDos = "Juan Perez ";
+		String nombreTres = "Juanita ";
 		String paisUno = new String("Colombia");
 		String paisDos = new String("Colombia");
 		System.out.println(nombreUno.equals(nombreDos));
